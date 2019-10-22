@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "211f2d9a24f50e0df234",
-    "url": "/ReactSlideshow/static/css/main.482acd73.chunk.css"
+    "revision": "1be7c553851587335206",
+    "url": "/ReactSlideshow/static/css/main.a9a8354a.chunk.css"
   },
   {
-    "revision": "211f2d9a24f50e0df234",
-    "url": "/ReactSlideshow/static/js/main.211f2d9a.chunk.js"
+    "revision": "1be7c553851587335206",
+    "url": "/ReactSlideshow/static/js/main.1be7c553.chunk.js"
   },
   {
     "revision": "2ab6a7baf1b1356974a9",
@@ -36,7 +36,7 @@ self.__precacheManifest = [
     "url": "/ReactSlideshow/static/media/slide5.869caaa3.jpg"
   },
   {
-    "revision": "2edd768547af1046d29aa200abcbad99",
+    "revision": "353d507bd1894ea9f2e4cf67c08559e8",
     "url": "/ReactSlideshow/index.html"
   }
 ];
