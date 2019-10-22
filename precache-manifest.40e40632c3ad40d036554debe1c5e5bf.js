@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/ReactSlideshow/static/js/runtime~main.7351b09f.js"
   },
   {
-    "revision": "b2e13e6477ab3c20a197",
-    "url": "/ReactSlideshow/static/js/main.b2e13e64.chunk.js"
+    "revision": "bdf4542b95bd97b6713c",
+    "url": "/ReactSlideshow/static/js/main.bdf4542b.chunk.js"
   },
   {
     "revision": "9c310728d726a1a41b24",
     "url": "/ReactSlideshow/static/js/1.9c310728.chunk.js"
   },
   {
-    "revision": "b2e13e6477ab3c20a197",
-    "url": "/ReactSlideshow/static/css/main.d91f2700.chunk.css"
+    "revision": "bdf4542b95bd97b6713c",
+    "url": "/ReactSlideshow/static/css/main.482acd73.chunk.css"
   },
   {
-    "revision": "ef8fb1e24709fadae711d4a51d0b0527",
+    "revision": "35ad0a2249079e78ed3e2a2293e6aa45",
     "url": "/ReactSlideshow/index.html"
   }
 ];
