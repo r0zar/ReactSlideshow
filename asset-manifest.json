@@ -1,7 +1,7 @@
 {
   "main.css": "/ReactSlideshow/static/css/main.482acd73.chunk.css",
-  "main.js": "/ReactSlideshow/static/js/main.bdf4542b.chunk.js",
-  "main.js.map": "/ReactSlideshow/static/js/main.bdf4542b.chunk.js.map",
+  "main.js": "/ReactSlideshow/static/js/main.8fd18083.chunk.js",
+  "main.js.map": "/ReactSlideshow/static/js/main.8fd18083.chunk.js.map",
   "static/js/1.9c310728.chunk.js": "/ReactSlideshow/static/js/1.9c310728.chunk.js",
   "static/js/1.9c310728.chunk.js.map": "/ReactSlideshow/static/js/1.9c310728.chunk.js.map",
   "runtime~main.js": "/ReactSlideshow/static/js/runtime~main.7351b09f.js",
@@ -13,6 +13,6 @@
   "static/media/slide2.jpg": "/ReactSlideshow/static/media/slide2.c529a353.jpg",
   "static/css/main.482acd73.chunk.css.map": "/ReactSlideshow/static/css/main.482acd73.chunk.css.map",
   "index.html": "/ReactSlideshow/index.html",
-  "precache-manifest.40e40632c3ad40d036554debe1c5e5bf.js": "/ReactSlideshow/precache-manifest.40e40632c3ad40d036554debe1c5e5bf.js",
+  "precache-manifest.a98b51bb307b9dd1c3c23353a2a62997.js": "/ReactSlideshow/precache-manifest.a98b51bb307b9dd1c3c23353a2a62997.js",
   "service-worker.js": "/ReactSlideshow/service-worker.js"
 }
